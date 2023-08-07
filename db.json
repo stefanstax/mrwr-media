@@ -1,5 +1,62 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Ashley Rodriguez",
+      "id": 2
+    },
+    {
+      "name": "Kelly Dickinson",
+      "id": 3
+    },
+    {
+      "name": "Fernando Bayer",
+      "id": 4
+    },
+    {
+      "name": "Francis Hettinger",
+      "id": 5
+    },
+    {
+      "name": "Roosevelt Schinner",
+      "id": 6
+    },
+    {
+      "name": "Mr. Wallace Dietrich",
+      "id": 7
+    },
+    {
+      "name": "Bobby Stokes",
+      "id": 8
+    },
+    {
+      "name": "Miriam Turcotte",
+      "id": 9
+    },
+    {
+      "name": "Saul Hintz",
+      "id": 10
+    },
+    {
+      "name": "Minnie Oberbrunner-Hansen",
+      "id": 11
+    },
+    {
+      "name": "Elaine Legros",
+      "id": 12
+    },
+    {
+      "name": "Olga Gleason",
+      "id": 13
+    },
+    {
+      "name": "Bridget Larkin IV",
+      "id": 14
+    }
+  ],
   "albums": [],
   "photos": []
 }
