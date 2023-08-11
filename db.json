@@ -1,14 +1,43 @@
 {
   "users": [
     {
-      "name": "Jermaine Kertzmann",
+      "name": "Lloyd Dickens DDS",
       "id": 1
     },
     {
-      "name": "Wallace Leffler-Bashirian",
+      "name": "Stella Lang",
       "id": 2
+    },
+    {
+      "name": "Dr. Ernest Batz",
+      "id": 3
+    },
+    {
+      "name": "Jim Crona",
+      "id": 4
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Generic Frozen Tuna",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Intelligent Bronze Shoes",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "Practical Plastic Chair",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Rubber Chicken",
+      "id": 4
+    }
+  ],
   "photos": []
 }
