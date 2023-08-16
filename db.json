@@ -30,9 +30,30 @@
     },
     {
       "userId": 1,
-      "title": "Sleek Frozen Soap",
-      "id": 5
+      "title": "Recycled Frozen Ball",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Small Granite Towels",
+      "id": 7
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/true",
+      "id": 19
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/true",
+      "id": 22
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3275565171736576",
+      "id": 23
+    }
+  ]
 }
